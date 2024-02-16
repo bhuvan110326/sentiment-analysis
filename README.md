@@ -1,0 +1,1 @@
+this is a sentiment analysis performed on youtube videos of the users choice which takes in the youtube url as input and it acceses the comments of that video and we use google cloud with API key in the background and then it performs a sentiment analysis on those comments
